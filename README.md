@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 - 🎓 High school student passionate about development
-- 💻 Experienced in **JavaScript (Discord.js), Python, SQL, HTML**, and **Backend Development**
+- 💻 Experienced in **JavaScript, Python, SQL, HTML**, and **Backend Development**
 - 🖥️ **System Administrator** with a strong background in network management and infrastructure
 - 🤖 Developed multiple Discord bots and web applications
 - 🌍 Focused on building interactive, scalable, and efficient systems
