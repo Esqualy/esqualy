@@ -1,4 +1,4 @@
-# 👋 Hello, I'm [Esqualy - Thibault]!
+# 👋 Hello, I'm Esqualy - Thibault!
 
 ## 🚀 About Me
 - 🎓 High school student passionate about development
