@@ -18,7 +18,8 @@
 ## 📌 Projects
 - 🤖 **OasiumBot (2021 - 2022)**: A multifunctional Discord bot
 - 🎵 **GlobeBeatFM (2024 - 2025)**: An advanced radio bot for Discord
-- 🎨 **We Art (2025 - XXXX)**: A creative platform for artists - Open-source
+- 🎨 **We Art (2025 - 2025)**: A creative platform for artists - Open-source
+  
 
 ## 📫 Contact Me
 - 📨 Discord: **@esqualy**
